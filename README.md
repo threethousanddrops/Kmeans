@@ -2,7 +2,7 @@
 
 images：运行成功的web截图与可视化成果展示
 
-output：kmeans算法输出文件（不同的簇数量+不同迭代次数）
+output：kmeans算法输出文件（不同的簇数量+不同迭代次数，具体在总结中有说明）
 
 visualization：可视化的python代码
 
