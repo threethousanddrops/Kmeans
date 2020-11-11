@@ -1,10 +1,10 @@
 # Kmeans
 
-images：运行成功的web截图与可视化成果展示
+images：运行成功的web截图与可视化截图
 
 output：kmeans算法输出文件（不同的簇数量+不同迭代次数，具体在总结中有说明）
 
 visualization：可视化的python代码
 
 
-实验过程说明与总结：https://shimo.im/docs/WYcWKkJgCKhpxVG8
+实验过程说明与总结：https://shimo.im/docs/WYcWKkJgCKhpxVG8 （包括运行成功的web截图与可视化成果展示）
